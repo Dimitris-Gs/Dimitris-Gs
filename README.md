@@ -4,7 +4,9 @@
 Software Developer
 ------------------
 
-Budding developer with eagerness to learn and experience building full-stack applications in Javascript, leveraging top-notch technologies.
+Hello, I am a highly creative entry-level developer.
+I started learning programming on my own before enrolling in the Coding Bootcamp. The Bootcamp, which involved training in Full Stack Software Development, helped me to further expand my knowledge and deeply understand programming key concepts. 
+The experience of working in a variety of industries and being part of groups of different individuals during my career is a testament to my strong team-working/people skills. My diverse background in both my working experience and education is proof of my adjustability and learning skills.
 
 * 🌍  I'm based in Athens, Greece
 * ✉️  You can contact me at [jimisgioulis@outlook.com.gr](mailto:jimisgioulis@outlook.com.gr)
